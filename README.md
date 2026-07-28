@@ -8,7 +8,7 @@ acquisition, destination routing, and per-execution attestation, all on Solana.
 
 ## Repositories
 
-- [`bybak`](https://github.com/bybak-labs/bybak) — Standard specification, program interfaces, integration notes.
+- [`bybak`](https://github.com/bybakfi/bybak) — Standard specification, program interfaces, integration notes.
 
 ## Links
 
